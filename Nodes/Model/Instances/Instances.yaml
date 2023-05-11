@@ -34,3 +34,14 @@ Children:
     Type: BaseDataVariableType
     DataType: Int32
     Value: 0
+- Name: 'Motor1-2'
+  Type: Motor1
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
